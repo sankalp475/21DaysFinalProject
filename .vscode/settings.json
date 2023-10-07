@@ -2,5 +2,9 @@
     "liveServer.settings.port": 5501,
     "liveServer.settings.proxy": {
         "proxyUri": "http://127.0.0.1:5501"
-    }
+    },
+    "editor.fontFamily": "'Operator Mono'",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": "active",
+    "liveServer.settings.CustomBrowser": "firefox"
 }
