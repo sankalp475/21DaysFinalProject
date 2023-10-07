@@ -115,7 +115,7 @@ li a {
 /* /body/hero-section */
 
 section.hero {
-    min-height: 30rem;
+    min-height: 36rem;
     background: var(--clr-dark-gray);
     padding: 6rem 0;
 
