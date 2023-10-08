@@ -125,11 +125,7 @@ section.hero {
 }
 
 
-div.hero__wrapper {
-    /* display: flex;
-    justify-content: end;
-    align-items: end; */
-}
+
 
 section.hero>.container {
     gap: 20px;
