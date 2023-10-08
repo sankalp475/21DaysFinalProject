@@ -280,6 +280,7 @@ section.footer>div.container {
 section.footer>div.container>div.footer-title-container {
     font-size: var(--fs-30px);
     margin: 1.5rem 0;
+    text-align: center;
 }
 
 section.footer>div.container>div.bottom-footerBox {
@@ -529,6 +530,8 @@ div.bottom-footerBox>div.more-links>div.links-box>ul.link-iterm-box>li {
     .navigation-menu>ul {
         display: flex;
         flex-direction: column;
+        padding-left: 0;
+        margin-left: 0;
     }
 
     .navigation-menu>ul li {
